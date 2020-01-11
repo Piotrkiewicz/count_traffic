@@ -12,7 +12,10 @@ import imutils
 import time
 import cv2
 
+
+
 def classify_frame(net, inputQueue, outputQueue):
+	""" Doc string TODO """
 	# keep looping
 	while True:
 		# check to see if there is a frame in our input queue
