@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 *.avi
+*.mp4
+count_traffic/data/*
